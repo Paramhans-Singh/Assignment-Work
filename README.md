@@ -5,8 +5,8 @@ This repository contains APIs for task and subtask management. The project is bu
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/OpeninApp-Task-API.git
-   cd Assignment-Work
+  - git clone https://github.com/Paramhans-Singh/Assignment-Work.git
+  - cd Assignment-Work
   
 
 2. Install dependencies:
